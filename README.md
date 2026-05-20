@@ -39,7 +39,7 @@ while True:
 
 client.close()
 ```
-## sever
+## server
 ```
 import socket
 
